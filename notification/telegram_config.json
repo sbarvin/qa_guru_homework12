@@ -1,10 +1,10 @@
 {
   "base": {
-    "project": "some project",
-    "environment": "some env",
-    "comment": "some comment",
+    "project": "QA.guru HW 12",
+    "environment": "PROD",
+    "comment": "Телеграм-бот. Отправляем уведомления о результатах прохождении автотестов",
     "reportLink": "",
-    "language": "en",
+    "language": "ru",
     "messenger": "telegram",
     "allureFolder": "allure-report/",
     "enableChart": true
